@@ -1,0 +1,27 @@
+# Core LangChain & Agent Framework
+langchain>=0.2.14
+langchain-core>=0.2.33
+langchain-community>=0.2.12
+langchain-openai>=0.1.22
+langchain-google-genai>=1.0.8
+
+# Vector Store & Embeddings for RAG
+chromadb>=0.5.5
+sentence-transformers>=3.0.1
+tiktoken>=0.7.0
+
+# Database & ORM
+sqlalchemy>=2.0.32
+
+# Web App & Dashboard
+streamlit>=1.37.1
+pandas>=2.2.2
+plotly>=5.22.0
+
+# Validation & Utilities
+pydantic>=2.8.2
+pydantic-settings>=2.4.0
+python-dotenv>=1.0.1
+
+# Testing
+pytest>=8.3.2
